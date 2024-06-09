@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Self Portfolio</h1>
+    <div class="profile">
+        <img src="your-image.jpg" alt="Your Name">
+        <h2><a href="https://www.facebook.com/your-profile" target="_blank">Your Name</a></h2>
+    </div>
+    <h3>Self Introduction</h3>
+    <p>
+        Hi, I'm [Your Name]. I'm passionate about web development and technology. I enjoy learning new programming languages and frameworks. In my free time, I like to work on personal projects and contribute to open-source.
+    </p>
+    <h4>Educational Background</h4>
+    <table>
+        <thead>
+            <tr>
+                <th>Institution</th>
+                <th>Degree</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>University Name</td>
+                <td>Bachelor's Degree</td>
+                <td>2018</td>
+            </tr>
+            <tr>
+                <td>College Name</td>
+                <td>Associate's Degree</td>
+                <td>2015</td>
+            </tr>
+            <tr>
+                <td>High School Name</td>
+                <td>High School Diploma</td>
+                <td>2012</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>Expertise</h3>
+    <ul>
+        <li>Web Development</li>
+        <li>JavaScript</li>
+        <li>HTML & CSS</li>
+        <li>Python</li>
+    </ul>
+    <h4>Background on Information Technology</h4>
+    <p>
+        Information Technology (IT) involves the use of computers to store, retrieve, transmit, and manipulate data or information. IT is a broad field that includes areas like software development, network administration, database management, and cybersecurity.
+    </p>
+    <h4>Applications Used in Studying</h4>
+    <ol>
+        <li>Sublime Text</li>
+        <li>Visual Studio Code</li>
+        <li>GitHub</li>
+    </ol>
+</body>
+</html>
