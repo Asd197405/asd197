@@ -1,0 +1,57 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border: 2px solid #333;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+h2 a {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+h2 a:hover {
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
+
+h3, h4 {
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+table th, table td {
+    padding: 8px;
+    border: 1px solid #333;
+}
+
+ul {
+    list-style-type: square;
+    font-family: Arial, sans-serif;
+}
+
+ol {
+    list-style-type: decimal;
+    font-family: Arial, sans-serif;
+}
